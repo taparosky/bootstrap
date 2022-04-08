@@ -1,0 +1,43 @@
+.navbar {
+    background-color: #ffffff;
+    font-size: larger;
+}
+
+.about {
+    background-color: #F2C617;
+    color: rgb(84, 84, 84);
+}
+
+.partners {
+    background-color: #F2A517;
+    color: rgb(84, 84, 84);
+}
+
+.margin {
+   padding-top: 30px;
+   padding-bottom: 30px;
+   font-family: Verdana;
+}
+
+.pic {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 50%;
+}
+
+.pic-services {
+    border-radius: 30px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    width: 300px;
+    height: 200px;
+}
+
+p {
+    text-align: left;
+}
+
+.bg-footer {
+    background-color: rgb(69, 69, 69);
+    color: white;
+}
